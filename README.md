@@ -4,7 +4,7 @@
 
 A live note and harmonics display for singers. For Mac. Free and open source.
 
-Tonoscope™ by [Haedo Labs™](https://haedolabs.com). In the works: [tonoscope.io](https://tonoscope.io).
+Tonoscope™ [by Haedo Labs™.](https://haedolabs.com) In the works: [tonoscope.io](https://tonoscope.io).
 
 ![The sand figure: sand on a drum, gathered where the drum is still](pictures/sand.webp)
 
