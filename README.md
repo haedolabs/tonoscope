@@ -1,6 +1,6 @@
 <img src="logo.svg" width="128" height="128" alt="">
 
-# Tonoscope
+# <picture><source media="(prefers-color-scheme: dark)" srcset="name-dark.svg"><img src="name-light.svg" alt="Tonoscope™" height="32"></picture>
 
 A live note and harmonics display for singers. For Mac. Free and open source.
 
